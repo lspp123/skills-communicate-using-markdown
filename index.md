@@ -3,3 +3,6 @@
 ``` C#
 Console.WriteLine("Hello World!")
 ```
+- [x] Pull request has been sent
+- [x] README file was created
+- [ ] A 2-week project has been made
